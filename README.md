@@ -1,4 +1,4 @@
-# 🤖 Smorphi QR Maze Solver
+#  Smorphi QR Maze Solver
 
 An autonomous navigation system for the **Smorphi modular robot** that combines **AI-based QR code detection** with **maze-solving using bottom IR sensors**. This hybrid logic system uses the HuskyLens AI camera to interpret QR codes and simple `if-else` logic to follow and recover from line-based paths.
 
